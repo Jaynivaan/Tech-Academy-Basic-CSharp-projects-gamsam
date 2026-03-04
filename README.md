@@ -45,3 +45,16 @@ learning concepts:
 *   Data Types(string, int and boolean)
 *   Casting concept as the RealLine() can only pull string data type .. 
 *   crafting structured  program
+
+#4
+ConsoleMathApp.cs
+_________________
+
+A console application that performs several mathematical operations based on user input..
+The program ask the user to enter number and ther performs different calculations such as multiplication, addition, division, comparison and modulus.
+
+learning concepts:
+*   casting
+*   Arithmatic Operations
+*   defining data types
+
