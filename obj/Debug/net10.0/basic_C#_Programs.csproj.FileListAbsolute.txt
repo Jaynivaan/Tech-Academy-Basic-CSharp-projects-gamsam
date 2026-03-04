@@ -1,0 +1,15 @@
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\bin\Debug\net10.0\basic_C#_Programs.exe
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\bin\Debug\net10.0\basic_C#_Programs.deps.json
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\bin\Debug\net10.0\basic_C#_Programs.runtimeconfig.json
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\bin\Debug\net10.0\basic_C#_Programs.dll
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\bin\Debug\net10.0\basic_C#_Programs.pdb
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\obj\Debug\net10.0\basic_C#_Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\obj\Debug\net10.0\basic_C#_Programs.AssemblyInfoInputs.cache
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\obj\Debug\net10.0\basic_C#_Programs.AssemblyInfo.cs
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\obj\Debug\net10.0\basic_C#_Programs.csproj.CoreCompileInputs.cache
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\obj\Debug\net10.0\basic_C#_Programs.sourcelink.json
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\obj\Debug\net10.0\basic_C#_Programs.dll
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\obj\Debug\net10.0\refint\basic_C#_Programs.dll
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\obj\Debug\net10.0\basic_C#_Programs.pdb
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\obj\Debug\net10.0\basic_C#_Programs.genruntimeconfig.cache
+C:\Users\jayak\OneDrive\Desktop\STUDENTDATA- JAYAKRISHNAN PARAMESWARANKUTTY\basic_C#_Programs\obj\Debug\net10.0\ref\basic_C#_Programs.dll
