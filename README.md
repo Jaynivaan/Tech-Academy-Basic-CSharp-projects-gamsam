@@ -72,3 +72,16 @@ learning concepts:
 *   casting instances.
 
 #6
+BooleanLogic.cs
+________________
+
+A Console application that determines whether an applicant qualifies for car insurance utilizing the wisdom capabilities of Boolean Logic.
+
+learning concepts:
+*   Boolean datatype (bool)
+*   Logical AND (&&) operators
+*   Logical || operator(or)
+*   Logical ^ operator(XOR)
+*   Comparison Operators(>, <=)
+
+#7
