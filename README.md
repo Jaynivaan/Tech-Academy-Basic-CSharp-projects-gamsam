@@ -58,3 +58,17 @@ learning concepts:
 *   Arithmatic Operations
 *   defining data types
 
+#5
+AnonymousIncomeComparison.cs
+___________________________
+
+A console app that compares the annual income of two people.
+The program ask for the hourly rate and hours worked per week for 2 individuals. It calculates their annual salaries and  determines whether Person1 earns more than Person2.
+
+learning concepts:
+*   Arithmatic operations
+*   Comparison operations
+*   Boolean applications
+*   casting instances.
+
+#6
