@@ -85,3 +85,17 @@ learning concepts:
 *   Comparison Operators(>, <=)
 
 #7
+PackageExpress.cs
+_________________
+
+A console application that calculates a shipping quote based on the package weight and dimensions.
+
+learning concepts:
+*   conditional statement if(){}else{};
+*   Nested conditions
+*   Ternary Operators(?:)
+*   Arthmatic operations
+*   User input with Console.ReadLine("");
+*   Type conversion with  Convert.ToDecimal().
+
+#8
