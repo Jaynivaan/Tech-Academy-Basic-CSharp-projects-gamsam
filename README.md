@@ -99,3 +99,15 @@ learning concepts:
 *   Type conversion with  Convert.ToDecimal().
 
 #8
+ConsoleAppAssignment.cs
+_______________________
+
+A console application that showcased loops and switch cases.
+*   Boolean comparisons
+*   while loops
+*   do-while loops
+*   switch statements
+*   user input using Console.Readline();
+*   break;
+
+#9
