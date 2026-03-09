@@ -103,6 +103,8 @@ ConsoleAppAssignment.cs
 _______________________
 
 A console application that showcased loops and switch cases.
+
+learning concepts:
 *   Boolean comparisons
 *   while loops
 *   do-while loops
@@ -111,3 +113,16 @@ A console application that showcased loops and switch cases.
 *   break;
 
 #9
+StringOperations.cs
+___________________
+A console application that utilizes various string methods .. this app is an assignment from module    12.
+
+learning concepts:
+*   String Concatenation
+*   Stirng methods(ToUpper)
+*   StringBuilder class
+*   Namespaces(system.Text)
+
+#10
+
+
