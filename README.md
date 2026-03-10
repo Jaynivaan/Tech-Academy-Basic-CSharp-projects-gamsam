@@ -123,6 +123,23 @@ learning concepts:
 *   StringBuilder class
 *   Namespaces(system.Text)
 
+
+
+####################################################################################################################
+c# part 2 course 
+the files inside the directory C#PART 2
+#############################################
+
 #10
+ConsoleAppArrayAssignment
+
+a consonle app crafted  to learn about the application of array and list on c# .. 
+
+learning concept: 
+*   array
+*   list
+
+#11
+
 
 
