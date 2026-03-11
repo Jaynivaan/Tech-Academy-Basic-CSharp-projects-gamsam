@@ -141,6 +141,7 @@ learning concept:
 
 #11
 ConsoleApp6partassignment.cs
+________________________________
 
 a console app crafted to complete 6 part assignment 
 
@@ -181,6 +182,31 @@ a console app crafted to complete 6 part assignment
     1. create a list of string with atleast two identical strings
     2.create a for each loop that evaluates each item in the list, and displays a message showing the stringa nd whether or not it has  already appeared in the list.
     3. save and execute the code make sure if it is displaying result as unique or duplicate tag with each string on list.
-    
 
+
+
+#12
+ConsoleAppstrings&integersAssignment.cs
+_______________________________________
+
+a console app crafted for the assignment in module 3.
+requirements : 
+1.a  create a list of integers.
+1.b Ask the user for a number to divide each number in the list by. 
+1.c Write a loop that takes each integer in the list and divides it with the given number and displays hte result onthe screen.
+
+2.a run code
+2.b enter non zero as the nunbr from user and note any error that get displayed.
+
+3.a run code
+3.b enter zero as entry and note the error if any displayed.
+
+4.a run code once again 
+4.b enter a string as entry note the error if you receive any.
+
+5.a now put the loop in try catch block
+5.b below and outside the trycatch block make the programme print a message" to display to let you know the program has emerged form the try catch block. 
+5.c in the catch block display the errror message to the screeen
+5.d try various combi nations of user input. (validnumbers, zero and string)
+5.e ensure appropriate error message is displayed in message. and code after the try catch block is executed..
 
