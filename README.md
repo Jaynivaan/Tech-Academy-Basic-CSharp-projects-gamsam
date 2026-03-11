@@ -140,6 +140,47 @@ learning concept:
 *   list
 
 #11
+ConsoleApp6partassignment.cs
 
+a console app crafted to complete 6 part assignment 
+
++++part1: 
+    1.one dimentional string array.
+    2.ask user to enter text.
+    3.A loop that iteerates through each string in the array and adds the users textinput to the end  of each string. This step will not outputanything but will update each array item by appendeing the userinput text. 
+    4. then second loop that prints each string one at a time.
+    5. save and compile..
+
++++Part2:
+    1.add and infinite loop 
+    2.fix the infininte loop
+    3. add comments to reveal how infinite loop was fixed.
+    
++++Part3: 
+    1.A loop where teh comparison operator used to determine whether to continue iteration is a "<" operator.
+    2. save and run 
+    3. Add another loop  where the comparison that is used is "<="Operator.
+    4 save and run 
+
++++Part4: 
+    1. a list of strings where each item inthe  list is unique.
+    2. ask the user to input text to search for the list.
+    3. a loop that iterates through the list  and then displays the index of the list item  that contains matching text on the screen.
+    4. add code to check if the user put in text that isn't on the list and , if they did, tell the user their input  is not on the list.
+    5. add code  that stops the loop from executing once a match has been found.
+    6. save and run.
+
++++Part5:
+    1. a list of strings with atleast two identical strings in the list. Ask the user to select to search for in the list.
+    2. create a loop that iterates through the list and then display the indices of list that contain matching text on the screen. Ensure to remove any breaking statements that may prevent your code from returning multiple  matches.
+    3. add code to the loop to check if the user put in text that  isn't on the list and if they they did tell the user their input is not on the list.
+    (no need to provide any additional chances for the user to enter text)
+    4. save and exit
+
++++Part6: 
+    1. create a list of string with atleast two identical strings
+    2.create a for each loop that evaluates each item in the list, and displays a message showing the stringa nd whether or not it has  already appeared in the list.
+    3. save and execute the code make sure if it is displaying result as unique or duplicate tag with each string on list.
+    
 
 
