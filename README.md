@@ -263,4 +263,25 @@ requirements
 7.b push it to github.
 
 
-#15
+
+
+#16
+MethodClassAssignment(directory)
+_______________________________
+this directory consist of two files MathDisplay.cs and Program.cs
+teh requirements are 
+
+1.a create a class.
+1.b in that class create a void method that takes two integers as parameters.
+1.c have the method do a math operation on the first integer and display the second integer to the screen.
+
+2.a in program.cs file main(), instantiate the class
+
+3.a call the method in class passing the two numbers.
+
+4.a call the method in the class specifying the parameters by name.
+
+5.a add generous comments..
+
+6.a push to git hub and submit .
+
