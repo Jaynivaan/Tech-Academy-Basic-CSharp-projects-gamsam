@@ -226,3 +226,41 @@ this assignment part of module 4 for c# part2 course fullfulls the following req
 2.b Call each method in turn passing the user input to the method and  display the returned integer to the screen.
 
 3.comment the code generously.
+
+#14 
+MainMethodAssignment(directory)
+_______________________
+This directory consist of two files MathMethods2.cs and Program.cs 
+Mathmethod2.cs contains the class with overloaded methods.
+Program.cs contains teh Main() method tht run the program
+this directory project is crafted as an assignment from module 4 to learn the concept of method overloading.
+
+requirements
+1.a create a class,
+1.b In that new class , create a method that take an integer,
+1.c create a math operation for  this integer.
+1.d return the answer as an integer.
+
+2.a in the Main() method of the program.cs file, instantiate the class  and call the one method, 
+2.b passing an integer and display result to screen
+
+3.a Add a second method to t he class with the same name that will take the decimal.
+3.b create a different math operation for it 
+3.c return the answer as an integer.
+
+4.a in the Main() method of the program.cs file, instantiate the class  and call the second method,
+4.b passing an decimal. display result to screen.
+
+5.a Add a third method to t he class with the same name that will take the string.
+5.b convert it to an integer.
+5.c create a different math operation for it 
+5.d return the answer as an integer.
+
+6.a in the Main() method of the program.cs file, instantiate the class  and call the third method,
+6.b passing an string. display result to screen.
+
+7.a comment generously and save run it.
+7.b push it to github.
+
+
+#15
