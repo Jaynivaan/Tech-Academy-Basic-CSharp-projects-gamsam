@@ -210,3 +210,19 @@ requirements :
 5.d try various combi nations of user input. (validnumbers, zero and string)
 5.e ensure appropriate error message is displayed in message. and code after the try catch block is executed..
 
+#13
+CallingMethodsAssignment(directory)
+________________________
+this directory consist of two files Mathmethods.cs and Program.cs 
+this assignment part of module 4 for c# part2 course fullfulls the following requirements;
+
+1.a  create a class
+1.b  In that class create three methods.
+1.c  Each method s will take one integer parameter in  and return an integer.
+1.d The methods should do some math operations on the  received parameter.
+1.e Put the class in a separate .cs file in the application.
+
+2.a In the Main() program  ask the user what number they want to do the math operations on 
+2.b Call each method in turn passing the user input to the method and  display the returned integer to the screen.
+
+3.comment the code generously.
